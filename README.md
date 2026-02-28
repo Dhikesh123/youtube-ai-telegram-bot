@@ -260,8 +260,9 @@ README.md
 
 ## 👨‍💻 Author
 
-Rama Krishna
+YERRA DHIKESH
 B.Tech Student – AI/Software Engineering Enthusiast
 
 ---
+
 
